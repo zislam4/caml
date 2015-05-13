@@ -1,0 +1,64 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta name="Description" content="Contact the Cognitive Aging and Memory Lab">
+<meta name="Keywords" content="Department of Psychology, Tufts University, Psychology, tufts university map, masters, degree in psychology, degree in psychology, psychology major, psychology schools, psychology, psychology degree, tuft university, psychology careers, psychology degrees, tufts university address, psychology colleges, tufts university psychology, master degree in psychology, tufts university tours, psychology universities, tufts university majors, bachelors in psychology, psychology classes, psychology masters, best psychology schools, psychology university, psychology graduate schools, psychology programs, psychology education, psychology studies, Ayanna K. Thomas, Tufts phone number, directions to Tufts, directions to Tufts University">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Contact the Cognitive Aging and Memory Lab</title>
+<link rel="stylesheet" href="bootstrap.css"/>
+<style>
+#toolbar {
+	font-size: 18px;
+	white-space: nowrap;
+}
+
+#googlemap {
+	float: left;
+	padding: 30px;
+}
+
+h1 {
+	padding-top: 30px;
+}
+
+address {
+	font-size: 16px;
+}
+
+</style>
+</head>
+
+<body>
+<div>
+      <ul class="nav nav-pills nav-justified" id="toolbar">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="biography.html">Biography</a></li>
+        <li><a href="thelab.html">The Lab</a></li>
+        <li><a href="research.html">Research</a></li>
+        <li><a href="publications.html">Publications</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="links.html">Links</a></li>
+        <li><a href="opportunities.html">Opportunity</a></li>
+      </ul>
+</div>
+<div class="container">
+<div id="googlemap"> 
+    <iframe width="300" height="300" frameborder="0" scrolling="No" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Tufts+University-Medford,+Medford,+MA&amp;aq=1&amp;sll=42.405992,-71.119042&amp;sspn=0.028583,0.064373&amp;ie=UTF8&amp;hq=&amp;hnear=Tufts+University,+28+Capen+St,+Medford,+Massachusetts+02155&amp;ll=42.406031,-71.119051&amp;spn=0.019013,0.025749&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe>
+</div>
+<h1>Contact</h1>
+    <address>
+      <strong>Department of Psychology</strong><br/>
+        Tufts University<br/>
+        Psychology Building<br/>
+        Room 204 <br/>
+        490 Boston Ave<br/>
+        Medford, MA 02155<br/>
+      	Tel: 617-627-4559 <br/>
+      	Email: <a href="mailto:ayanna.thomas@tufts.edu">ayanna.thomas@tufts.edu</a>
+	</address>
+<!-- end .container --></div>
+</body>
+</html>
+

@@ -1,0 +1,40 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta name="Description" content="About the Research">
+<meta name="Keywords" content="Research, contextual cues, memory and metamemory, subjective experience, learning, feeling of knowing, confidence, accessibility, contextual cues, subjective experience,, objective performance, research, individual differences, study of memory, metacognitive, accuracy, theoretical constructs of memory, Alzheimer's disease, frontal and medial temporal functioning, reading comprehension ability, subjectivity, Metamemory Across the Lifespan, Eyewitness Memory, Retrieval Enhanced Suggestibility, Memory Accuracy">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>About the Research</title>
+<link rel="stylesheet" href="bootstrap.css"/>
+<link rel="stylesheet" href="stylesheet.css"/>
+</head>
+
+<body>
+<div>
+      <ul class="nav nav-pills nav-justified" id="toolbar">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="biography.html">Biography</a></li>
+        <li><a href="thelab.html">The Lab</a></li>
+        <li><a href="research.html">Research</a></li>
+        <li><a href="publications.html">Publications</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="links.html">Links</a></li>
+        <li><a href="opportunities.html">Opportunit</a></li>
+      </ul>
+</div>
+
+<div class="container">
+	<h1>The Research</h1>
+	<blockquote>
+      <p>I  can never remember my license plate number or the countless user names and  passwords that I have established on my computer. I could commit  this information to memory, but it would require effort – effort that  I am unwilling to expend. I, like many people, am a lazy, negligent,  and careless encoder, and as such, I rely on external support (such as  Microsoft Outlook, iPhone, and Post-It Notes). In my defense, I feel  that this allows me to reserve valuable cognitive resources so that I may successfully  solve more complex daily problems. However,  there are situations where we are required to accurately retrieve information  from memory. For example,  it is important that we not only remember <em>to</em> take our medication, but also to remember that we have <em>already </em>taken our medication.   Similarly, it is not only important that we remember that we drove to  work, but also where we parked the car.  There  are also less frequent situations for which inaccurate memories have more serious  repercussions.  For example, it is  important for an eyewitness to accurately recount what she remembers of the  crime.  </p>
+      <p>Inaccuracies in all of these  situations can have negative consequences.   An older adult may repeatedly take a prescription medication.  I may wander the parking lot in search of my  car. A witness might give highly confident yet inaccurate testimony resulting  in wrongful conviction.  <em>My research focuses on improving memory accuracy so that  when those situations do arise, the reconstruction of an event can be as  faithful to the original encoding as possible. </em></p>
+      <p>We frequently  learn more about memory from its failures rather than its successes.  As such, my research has delved into the  various contexts that result in episodic memory failures. I take the  theoretical perspective that memory decisions are inferential in nature.  An episodic event is not represented as a  single unit, but rather a distribution of elements that can be differentially  accessed at retrieval.  Accessibility to  those elements influences both memory and metamemorial decisions. By  influencing the accessibility of specific elements, or attributes, I am able to  bias retrieval.  The result is memory and  metamemorial failures.  My research focuses  on three specific situations related to retrieval bias: bias resulting from  accessible encoded attributes; bias resulting from automatic processing at  encoding and/or retrieval; controlling bias by improving retrieval monitoring. </p>
+      <p>Experimentally, I manipulate the  accessibility of specific attributes, or sources of information, that are  likely used to make memory and metamemorial retrieval decisions. For example, I  direct participants to study material in specific ways, or influence their  encoding orientation.  I also force  participants to respond to all questions, influencing retrieval processes.  I measure memory through direct measures,  such as recall and recognition, and indirect measures such as reaction  time.  I measure metamemory (monitoring  and control of memory) through predictions of learning, predictions of  retrieval, and confidence judgments.  The  array of techniques and measures used allow me to better understand retrieval  biases.   I have begun to assess the conditions that are  most likely to result in memory biases, and the ways in which people can reduce  biased responding, and improve memory.   Finally, I take an individual differences approach  in my investigation, comparing older adults (65 -85) to younger adults (18 –  24), and examine how changes in executive functioning may impact the positive  role of metamemory in improving memory accuracy.</p>
+      <p>Specific Areas of Interest: Metamemory Across the Lifespan, Eyewitness Memory,
+        Retrieval Enhanced Suggestibility, Memory Accuracy</p>
+	</blockquote>
+<!-- end .container --></div>
+</body>
+</html>
+

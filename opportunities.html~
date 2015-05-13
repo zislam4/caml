@@ -1,0 +1,62 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta name="Description" content="Contact the Cognitive Aging and Memory Lab">
+<meta name="Keywords" content="Department of Psychology, Tufts University, Psychology, tufts university map, masters, degree in psychology, degree in psychology, psychology major, psychology schools, psychology, psychology degree, tuft university, psychology careers, psychology degrees, tufts university address, psychology colleges, tufts university psychology, master degree in psychology, tufts university tours, psychology universities, tufts university majors, bachelors in psychology, psychology classes, psychology masters, best psychology schools, psychology university, psychology graduate schools, psychology programs, psychology education, psychology studies, Ayanna K. Thomas, Tufts phone number, directions to Tufts, directions to Tufts University">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Research Opportunities</title>
+<link rel="stylesheet" href="bootstrap.css"/>
+<style>
+#toolbar {
+	font-size: 18px;
+	white-space: nowrap;
+}
+
+.picture {
+	float: left;
+	padding-right: 20px;
+}
+
+</style>
+</head>
+
+<body>
+<div>
+      <ul class="nav nav-pills nav-justified" id="toolbar">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="biography.html">Biography</a></li>
+        <li><a href="thelab.html">The Lab</a></li>
+        <li><a href="research.html">Research</a></li>
+        <li><a href="publications.html">Publications</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="links.html">Links</a></li>
+        <li><a href="opportunities.html">Opportunity</a></li>
+      </ul>
+</div>
+<div class="container">
+
+<h1>Become A Research Assistant</h1>
+  <ul>
+    <li>Contact Professor Thomas for an application or download an application <a href="http://ase.tufts.edu/psychology/caml/pdfs/APPLICATION.pdf">here</a>.</li>
+    <li>A one year committment is typically required. </li>
+    <li>Current Tufts University students and recent college graduates are welcome to apply.</li>
+    <li>Previous laboratory experience is a plus, but is not required.</li>
+  </ul>
+<h1>Become A Research Participant</h1>
+  <ul>
+    <li>Research participants over the age of 60 are always needed. </li>
+    <li>Email: <a href="mailto:ayanna.thomas@tufts.edu">ayanna.thomas@tufts.edu </a>or call 617-627-4559 to become a participant. </li>
+  </ul>
+  <ul>
+
+    <p><!-- end .content --></p>
+</div>
+<!-- end .container --></div>
+<script type="text/javascript">
+var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"http://ase.tufts.edu/psychology/caml/SpryAssets/SpryMenuBarDownHover.gif", imgRight:"http://ase.tufts.edu/psychology/caml/SpryAssets/SpryMenuBarRightHover.gif"});
+</script>
+</body>
+</html>
+

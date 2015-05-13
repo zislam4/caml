@@ -26,10 +26,10 @@
 </div>
 
 <div class="container">	
-	
+	<div class="text-center">
 	<h1>Lab Personnel</h1>
 	<h4>Primary Investigator: Ayanna K. Thomas, PhD</h4>
-
+	</div>
 	<div class="center-block">
 	<img class="center-block" src="photogoeshere.jpg" alt="Your image goes here" width="100%" height="350px"/>
 	</div>

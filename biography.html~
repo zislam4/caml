@@ -1,0 +1,57 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta name="Description" content="About Ayanna K Thomas, PhD">
+<meta name="Keywords" content="Professor of Psychology, Tufts University , subjective experience memories, research, metacognition, memory distortion, eyewitness memory, age related changes in memory, Ph.D. in Cognitive Psychology, University of Washington, NIA postdoctoral, Wash U, research scientist, long-term memory, aging, Colby College, Department of Psychology, Tufts University, Cognitive Aging and Memory Lab, Graduate and Undergraduate, long term memory, psychology research, research study, academic research">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>About Ayanna K. Thomas, PhD</title>
+<link rel="stylesheet" href="bootstrap.css"/>
+<style>
+#toolbar {
+	font-size: 18px;
+	white-space: nowrap;
+}
+
+.picture {
+	float: left;
+	padding-top: 20px;
+	padding-right: 20px;
+}
+
+#bio {
+	line-height: 200%;
+	font-size: 18px;
+}
+</style>
+</head>
+
+<body>
+<div>
+      <ul class="nav nav-pills nav-justified" id="toolbar">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="biography.html">Biography</a></li>
+        <li><a href="thelab.html">The Lab</a></li>
+        <li><a href="research.html">Research</a></li>
+        <li><a href="publications.html">Publications</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="links.html">Links</a></li>
+        <li><a href="opportunities.html">Opportunity</a></li>
+      </ul>
+</div>
+
+<div class="container">
+  <div class="content"><!--Maybe do vertical center-ing-->
+    	<h1> Ayanna K. Thomas, PhD</h1>
+	<img class="picture" src="http://ase.tufts.edu/psychology/caml/images/130910_12077_thomas002.jpg" alt="Ayanna" width="350" 		height="410" longdesc="/psychology/caml/index.asp/images/130910_12077_thomas002.jpg"/>
+	<div id="bio">
+	<p>As an Associate Professor of Psychology at Tufts University I spend my time investigating the subjective experience that accompanies memories.  My research encompasses  metacognition, memory distortion, eyewitness memory, and age related changes in memory.  I received my  Ph.D. in Cognitive Psychology from the University of Washington, and then spent three years as an NIA postdoctoral fellow at Washington University.  I spent a final year at Wash U as a research scientist, studying changes in long-term memory as a function of aging. After teaching at Colby College for two years, I came to the Department of Psychology at Tufts University, where I established the Cognitive Aging and Memory Lab in 2007.   Graduate and Undergraduate students interested in working in the Cognitive Aging and Memory Lab should contact me at <a href="mailto:ayanna.thomas@tufts.edu">ayanna.thomas@tufts.edu</a></p>
+      <p>My research has been funded by grants from  the National Institute on Aging and National Institute of Neurological Disorder  and Stroke, and has been featured in such popular media outlets as <em>Psychology Today, The Initiative for  Neuroscience and the Law,</em> and the <em>L.A.  Times</em>. </p>
+	</div>
+  </div>
+<!-- end .container --></div>
+
+</body>
+</html>
+
